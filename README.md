@@ -1,6 +1,8 @@
-<br><h1>Software Design Description (SDD)</h1></br>
-<br><h3>Date: May 14th, 2013</h3></br>
-<br><h1>Tic-Tac-Toe Game</h1></br>
+<h1>
+<br>Software Design Description (SDD)</br>
+<br>Tic-Tac-Toe Game</br>
+</h1>
+<br>Date: May 14th, 2013</br>
 <br>Ernest Kirstein</br>
 <br>Yuxiang Guo</br>
 <p class="c5 c12">
