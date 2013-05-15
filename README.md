@@ -4,28 +4,28 @@
 <p class="c5 c12 c8 title">
 	<a name="h.7yj5n4i0l34y"></a>
 </p>
-<p class="c5 c8 title">
+<h1 class="c5 c8 title">
 	<a name="h.xbtk05u86p3w"></a><span>Software Design Description (SDD)</span>
 </p>
 <p class="c12 c11 c8 title">
 	<a name="h.3txdljkc90dy"></a>
 </p>
-<p class="c5 c8 subtitle">
+<h2 class="c5 c8 subtitle">
 	<a name="h.7wnm45j1cepf"></a><span>Date: May 14th, 2013</span>
 </p>
 <p class="c5 c12 c8 title">
 	<a name="h.4nmvm2gy2scr"></a>
 </p>
-<p class="c5 c8 title">
+<h1 class="c5 c8 title">
 	<a name="h.qfcg06bmxm6k"></a><span>Tic-Tac-Toe Game</span>
 </p>
 <p class="c12 c11 c8 title">
 	<a name="h.vdtyczr9ngya"></a>
 </p>
-<p class="c5 c8 subtitle">
+<h2 class="c5 c8 subtitle">
 	<a name="h.5u6ao7akm90"></a><span>Ernest Kirstein</span>
 </p>
-<p class="c5 c8 subtitle">
+<h2 class="c5 c8 subtitle">
 	<a name="h.ngny22yg4q08"></a><span>Yuxiang Guo</span>
 </p>
 <p class="c5 c12">
@@ -470,12 +470,3 @@
 <p class="c11">
 	<span>FAQ - Frequently Asked Question</span>
 </p>
-<h1 class="c5"><a name="h.v96clys5myg8"></a><span>7 - Notes (All)</span></h1>
-<p class="c5">
-	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The source code and java executeable jar file are avalible for download here: </span><span class="c0"><a class="c3" href="https://github.com/Glank/TicTacToe">https://github.com/Glank/TicTacToe</a></span><span>.</span>
-</p>
-<div>
-	<p class="c6">
-		<span></span>
-	</p>
-</div>
