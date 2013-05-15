@@ -1,33 +1,8 @@
-<p class="c5 c12 c8 title">
-	<a name="h.xtku6nkx7afo"></a>
-</p>
-<p class="c5 c12 c8 title">
-	<a name="h.7yj5n4i0l34y"></a>
-</p>
-<h1 class="c5 c8 title">
-	<a name="h.xbtk05u86p3w"></a><span>Software Design Description (SDD)</span>
-</p>
-<p class="c12 c11 c8 title">
-	<a name="h.3txdljkc90dy"></a>
-</p>
-<h2 class="c5 c8 subtitle">
-	<a name="h.7wnm45j1cepf"></a><span>Date: May 14th, 2013</span>
-</p>
-<p class="c5 c12 c8 title">
-	<a name="h.4nmvm2gy2scr"></a>
-</p>
-<h1 class="c5 c8 title">
-	<a name="h.qfcg06bmxm6k"></a><span>Tic-Tac-Toe Game</span>
-</p>
-<p class="c12 c11 c8 title">
-	<a name="h.vdtyczr9ngya"></a>
-</p>
-<h2 class="c5 c8 subtitle">
-	<a name="h.5u6ao7akm90"></a><span>Ernest Kirstein</span>
-</p>
-<h2 class="c5 c8 subtitle">
-	<a name="h.ngny22yg4q08"></a><span>Yuxiang Guo</span>
-</p>
+<br><h1>Software Design Description (SDD)</h1></br>
+<br><h3>Date: May 14th, 2013</h3></br>
+<br><h1>Tic-Tac-Toe Game</h1></br>
+<br>Ernest Kirstein</br>
+<br>Yuxiang Guo</br>
 <p class="c5 c12">
 	<span></span>
 </p>
